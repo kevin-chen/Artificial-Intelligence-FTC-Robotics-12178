@@ -11,9 +11,6 @@ import org.firstinspires.ftc.teamcode.Helper.Pictograph;
 import org.firstinspires.ftc.teamcode.Helper.Timer;
 import org.firstinspires.ftc.teamcode.Robot.AutoRobot;
 
-
-//This is a test for github
-//deleting on web github
 /**
  * Created by Artificial Intelligence 12178 on 1/16/2018.
  */
