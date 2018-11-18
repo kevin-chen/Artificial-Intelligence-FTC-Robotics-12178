@@ -13,7 +13,7 @@ import org.firstinspires.ftc.teamcode.Robot.AutoRobot;
 
 
 //This is a test for github
-//This is a second testing only using commit
+//This is a second testing only using push
 /**
  * Created by Artificial Intelligence 12178 on 1/16/2018.
  */
