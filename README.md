@@ -2,7 +2,7 @@
 ![](https://www.firstinspires.org/sites/default/files/open-graph-first-logo.png)
 
 ## Robot
-<img src="IMG_4575.png" width=1000><br>
+<img src="https://github.com/kevin-chen/Artificial-Intelligence-FTC-Robotics-12178/blob/master/robot.jpg" width=1000><br>
 
 ## Welcome!
 This GitHub repository contains the source code that is used to build an Android app to control a *FIRST* Tech Challenge competition robot.  To use this SDK, download/clone the entire project to your local computer.
